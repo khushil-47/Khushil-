@@ -1,5 +1,5 @@
 # Hello There 👋 
-I'm Khushil Neema a Software Developer from India , currently working to improve my problem <br>solving skills by consistently doing Data Structures<br>& Algorithm<br>Also learning Java <br>Curious about AI and ML<br>If you are also on the same path lets connect.
+I'm Khushil Neema a Software Developer from India , currently working to improve my problem <br>solving skills by consistently doing Data Structures<br>& Algorithms<br>I'm also learning Java <br>Curious about AI and ML<br>If you are also on the same path lets connect.
 
 
 ## 🌐 Socials:
